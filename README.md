@@ -60,6 +60,4 @@ The goal is to transform raw, inconsistent data into a clean, model-ready datase
 - Seaborn
 - Jupyter Notebook
 
----
 
-## 📂 Project Structure
